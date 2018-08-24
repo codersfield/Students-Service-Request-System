@@ -3,10 +3,10 @@ In many university student are facing problem or alumni are facing problem to ge
 
 **Overview of System:**
 
-*Student have to register on the system and fill details name, student ID, mobile number, delivery address, password.
-*When student login on the system it will redirect to screen where  documents name and it’s price is written so he/she need to select document they want.
-*Then press on submit button, student will see payment option.
-*After payment mail sent to university registrar that xyz student want xyz documents.
-*Registrar will post documents on given address.
+* Student have to register on the system and fill details name, student ID, mobile number, delivery address, password.
+* When student login on the system it will redirect to screen where  documents name and it’s price is written so he/she need to select document they want.
+* Then press on submit button, student will see payment option.
+* After payment mail sent to university registrar that xyz student want xyz documents.
+* Registrar will post documents on given address.
 
-*start Developing :rocket:
+* start Developing :rocket:
