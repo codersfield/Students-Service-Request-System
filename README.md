@@ -9,4 +9,10 @@ In many university student are facing problem or alumni are facing problem to ge
 * After payment mail sent to university registrar that xyz student want xyz documents.
 * Registrar will post documents on given address.
 
+**Technology** 
+* **S3:** for storage 
+* **Amazon RDS:** Database of student 
+* **Sendgrid/phpmail :**  to send notification to registar 
+* **Payment gateway :** for payment 
+
 * start Developing :rocket:
