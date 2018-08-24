@@ -1,2 +1,12 @@
 # Students-Service-Request-System
 In many university student are facing problem or alumni are facing problem to get documents like Transcripts, Bona-fide Certificate, Proof of Enrolment, Grade Card of any semester due to holiday in institute or student is migrated away from the university and student want document without going anywhere, So our team planning to work on An online portal from where a student can directly request for documents like Transcripts, Bona-fide Certificate, Proof of Enrolment, Grade Card of any semester, etc. and university will post document as requested by student.
+
+**Overview of System:**
+
+1.Student have to register on the system and fill details name, student ID, mobile number, delivery address, password.
+2.When student login on the system it will redirect to screen where  documents name and it’s price is written so he/she need to select document they want.
+3.Then press on submit button, student will see payment option.
+4.After payment mail sent to university registrar that xyz student want xyz documents.
+5.Registrar will post documents on given address.
+
+*start Developing :rocket: *
