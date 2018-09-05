@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>SSRS</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'>
@@ -26,10 +26,10 @@
  
 
 
-  <title>SSRS       </title>
+  <title>SSRS</title>
 </head>
 
-<body data-spy="scroll" data-target=".navbar" data-offset="50">
+<body data-spy="scroll" data-target=".navbar" data-offset="100">
 
   <nav id="nav-bar" class="navbar navbar-inverse navbar-fixed-top">
     <div class="container-fluid">
@@ -50,8 +50,8 @@
           <li><a href="#about">About</a></li>
           <li><a href="#portfolio">Our Product</a></li>
           <li><a href="#contact">Developers</a></li>
-          <li><a href="#contact">Login</a></li>
-          <li><a href="#contact">Sign Up</a></li>
+          <li><a href="/page/login.php">Login</a></li>
+          <li><a href="#Signup">Sign Up</a></li>
         </ul>
 
       </div>
@@ -64,7 +64,7 @@
   <header id="twoam">
     <div class="container-fluid">
       <div class="row me animated fadeIn">
-        <div class="col-xs-offset-5 col-sm-offset-6 col-xs-7 col-sm-6">
+        <div class="col-md-offset-6 col-sm-offset-6 col-xs-7 col-sm-6">
           <div class="tagline1">The solution for Unversities</div>
           <div class="tagline2 animated fadeIn">Documents</div>
           <div class="tagline2 animated fadeIn">Request Portal</div>
