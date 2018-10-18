@@ -7,26 +7,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <link rel='stylesheet' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
-<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'>
-<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css'>
-
-      <link rel="stylesheet" href="css/style.css">
-
-  
-</head>
-
-<body>
-
-  <head>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="css/style.css">
 
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Lato:100,300italic,400,700,900' rel='stylesheet' type='text/css'>
-
- 
-
-
-  <title>SSRS</title>
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="100">
@@ -111,9 +98,7 @@
       </div>
 
     </div>
-
-
-  </section>
+</section>
 
 
   <!-- portfolio projects page -->
@@ -131,7 +116,7 @@
 
 
 
-    <div class="row max">
+    
 
 <div class="text-center">
   <div class="desc">
