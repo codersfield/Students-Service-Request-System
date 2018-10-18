@@ -481,3 +481,11 @@ a:link {
     padding-bottom: 10px;
   }
 }
+.login-footer {
+  position:fixed;
+  bottom:0;
+
+}
+.login-form {
+  padding-top: 150px;
+}
