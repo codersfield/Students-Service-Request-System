@@ -50,8 +50,8 @@
           <li><a href="#about">About</a></li>
           <li><a href="#portfolio">Our Product</a></li>
           <li><a href="#contact">Developers</a></li>
-          <li><a href="/page/login.php">Login</a></li>
-          <li><a href="#Signup">Sign Up</a></li>
+          <li><a href="page/login.php">Login</a></li>
+          <li><a href="page/signup.php">Sign Up</a></li>
         </ul>
 
       </div>
