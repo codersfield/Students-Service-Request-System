@@ -15,4 +15,4 @@ In many university student are facing problem or alumni are facing problem to ge
 * **Sendgrid/phpmail :**  to send notification to registar 
 * **Payment gateway :** for payment of fees
 
-* start Developing :rocket:
+* start Developing :rocket: ..
