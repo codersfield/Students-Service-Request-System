@@ -16,7 +16,7 @@ In many university student are facing problem or alumni are facing problem to ge
 * **S3:** for storage 
 * **Amazon RDS:** Database of student 
 * **Sendgrid/phpmail :**  to send notification to registar 
-* **Payment gateway :** for payment 
+* **Payment gateway :** for payment of fees
 
 * start Developing :rocket:
 
